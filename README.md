@@ -2,6 +2,7 @@
 <div align="left"> ㅤ </div>
 <div align="left"> ㅤ </div>
 <div align="left"> ㅤ </div>
+<div align="left"> ㅤ </div>
 <p align="left">
 $${\color{#C29F70}bugs}$$ $${\color{#189E81}or}$$ $${\color{#CD6372}buggy}$$ ㅤ $${\color{#C29F70}♡}$$ $${\color{#189E81}she}$$ </br>
 $${\color{#C29F70}17.yo}$$ $${\color{#CD6372}08/26}$$ ㅤ ㅤ $${\color{#189E81}or}$$ $${\color{#189E81}he}$$ </br>
