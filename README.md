@@ -22,7 +22,8 @@ $${\color{#189E81}if}$$ $${\color{#3CA07F}you}$$ $${\color{#65A17C}say}$$ $${\co
 ㅤ
 <p align="left">
 $${\color{#C29F70}main}$$ $${\color{#189E81}@cme-o}$$ </br>
-$${\color{#C29F70}alt}$$ $${\color{#189E81}@SANJll}$$ </br>
+$${\color{#C29F70}alt}$$ㅤ $${\color{#189E81}@SANJll}$$ </br>
+$${\color{#C29F70}alt}$$ㅤ $${\color{#189E81}@yamaace}$$ </br>
 ㅤ</br>
 $${\color{#C29F70}fndm}$$ $${\color{#189E81}iwc}$$ ㅤ $${\color{#C29F70}lawlu}$$ $${\color{#189E81}dni}$$ </br>
 $${\color{#C29F70}power}$$ $${\color{#189E81}scalers}$$ $${\color{#189E81}dni}$$ </br>
